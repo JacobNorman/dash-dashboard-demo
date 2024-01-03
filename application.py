@@ -2,7 +2,7 @@ import dash
 from dash import html, dcc
 
 app = dash.Dash(__name__)
-server = app.server
+application = app.server
 
 app.layout = html.Div(
     children=[
