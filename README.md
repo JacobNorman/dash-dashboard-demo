@@ -5,6 +5,8 @@ This project is intented to demonstrate how to set up and deploy a Dash applicat
 
 This application is deployed using AWS Elastic Beanstalk, a fully managed service that makes it easy to deploy and run applications in multiple languages. The AWS infrastructure is created using a combination of terraform and the Elastic Beanstalk CLI.
 
+![Web app screenshot](images/web-app-screenshot.png)
+
 
 ## Setup Instructions
 **Prerequisites**: These instructions are for Unix-like systems. You should have permissions to create and manage resources in AWS.
